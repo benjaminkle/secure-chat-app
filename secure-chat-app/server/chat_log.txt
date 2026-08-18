@@ -1,0 +1,22 @@
+[SYSTEM] Secure chat server started on 127.0.0.1:5000
+[SYSTEM] Client connected: ('127.0.0.1', 55747)
+[SYSTEM] Client disconnected: ('127.0.0.1', 55747)
+[SYSTEM] Secure chat server started on 127.0.0.1:5000
+[SYSTEM] Client connected: ('127.0.0.1', 64793)
+[SYSTEM] Client connected: ('127.0.0.1', 64794)
+[2026-07-08 13:27:40] Khoa Le: Hi there!
+[2026-07-08 13:27:46] Sophia: Hello! How are you?
+[2026-07-08 13:27:53] Khoa Le: Good, thank you.
+[SYSTEM] Client disconnected: ('127.0.0.1', 64793)
+[SYSTEM] Client disconnected: ('127.0.0.1', 64794)
+[SYSTEM] Secure chat server started on 127.0.0.1:5000
+[SYSTEM] Client connected: ('127.0.0.1', 52576)
+[SYSTEM] Client connected: ('127.0.0.1', 64123)
+[2026-08-04 15:23:27] Ben: Hello there
+[2026-08-04 15:23:47] Sophia: Hey
+[SYSTEM] Client disconnected: ('127.0.0.1', 64123)
+[SYSTEM] Secure chat server started on 127.0.0.1:5000
+[SYSTEM] Client connected: ('127.0.0.1', 57909)
+[SYSTEM] Client connected: ('127.0.0.1', 57917)
+[2026-08-05 10:46:23] James: Hello there
+[2026-08-05 10:46:40] Ben: Hi, how are you?
